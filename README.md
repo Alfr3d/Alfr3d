@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Alfr3d
-- 👨‍💻 Software Developer at Fullreach 
+- 👨‍💻 Core Developer at Surfshark 
 
 <!---
 Alfr3d/Alfr3d is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
